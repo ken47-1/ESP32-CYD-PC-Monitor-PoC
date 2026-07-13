@@ -1,0 +1,24 @@
+{
+  "serial": {
+    "port": "COM6",
+    "baud_rate": 115200,
+    "debug": false
+  },
+  "network": {
+    "host": "8.8.8.8"
+  },
+  "metrics": {
+    "interval_ms": 500
+  },
+  "tray": {
+    "poll_interval_ms": 500
+  },
+  "sensors": {
+    "cpu_load_name": "CPU Total",
+    "cpu_temp_name": "CPU Package",
+    "gpu_load_name": "GPU Core",
+    "gpu_temp_name": "GPU Core",
+    "ram_used_name": "Memory Used",
+    "ram_avail_name": "Memory Available"
+  }
+}
