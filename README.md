@@ -1,5 +1,7 @@
 # ESP32-CYD-PC-Monitor-PoC
 
+*This project was developed with AI-assisted code generation and human oversight.*
+
 > **PROOF OF CONCEPT**: PC metrics displayed on an ESP32 Cheap Yellow Display (CYD).
 
 This repository contains a proof-of-concept system where a PC acts as a server and an ESP32 with a CYD display acts as a client, receiving and displaying system metrics via Serial.
@@ -214,6 +216,6 @@ This project enforces a strict code layout standard documented in [`docs/Code_La
 
 When contributing, follow the visual hierarchy scale defined in the standard document.
 
-## Credits
+## License
 
-This project was developed with human oversight and AI-assisted code generation.
+MIT
